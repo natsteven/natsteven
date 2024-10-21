@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+
+I'm currently pursuing my MS in CS at Boise State University. My thesis investigates the advantages of application and language-specific string constraint solving for software verification.
+
+I am a dedicated problem-solver with a background in engineering and pre-med. I am passionate about leveraging computer science to develop innovative technical solutions for complex human challenges. My approach is grounded in a multidisciplinary mindset focusing on efficiency and user experience.
 
 <!--
 **natsteven/natsteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
